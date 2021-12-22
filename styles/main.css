@@ -1,0 +1,83 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{ background-color: #f3f4f5;}
+
+.title{
+    color: black;
+    font-family: Arial;
+    font-size: 24px;
+    text-align: center;
+    margin-bottom: 60px;
+    padding: 12px;
+
+}
+
+.container{
+    padding: 2px 0;
+    width: 100%;
+    max-width: 1000px;
+   
+    overflow: hidden;
+    font-family: Georgia;
+    font-size: 18px;
+    color: #757575;
+}
+
+.container{
+    display: flex;
+    
+    padding: 0px 0px 0px 90px;
+
+}
+.container p{
+    padding: 0px 0px 0px 50px;
+    
+}
+
+ .container >.image-of-the-plate{
+    width: 47%;
+    height: 180px;
+ 
+
+}
+
+.container .container-texts{
+    width: 40%;
+}
+
+.container-texts p{
+    padding: 0px 0px 0x;
+    
+}
+
+.container-two{
+    padding: 4px 0px 0px 90px;
+    font-family: Georgia;
+    font-size: 18px;
+    color: #757575;
+}
+
+.container-two p{
+
+    font-style: italic;
+    padding: 0px 0px 3px;
+}
+
+ .container-two-texts{
+    padding: 4px 0px 0px 90px;
+    font-family: Georgia;
+    font-size: 18px;
+    color: #757575;
+}
+
+.container-end{
+
+    padding: 3px 0px 0px 90px;
+    font-family: Georgia;
+    font-size: 18px;
+    color: #757575;
+}
